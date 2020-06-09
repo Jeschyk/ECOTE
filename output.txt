@@ -1,0 +1,6 @@
+Variable operate declared in Line: 22 is never used.
+Variable data4 declared in Line: 22 is never used.
+Variable unique declared in Line: 24 is never used.
+Variable data5 declared in Line: 28 is never used.
+Variable data3 declared in Line: 44 is never used.
+Variable p declared in Line: 71 is never used.
